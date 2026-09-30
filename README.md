@@ -289,9 +289,9 @@ const STORY = {
       text: "First date natin na tinaguan pa kita dahil sa hiya ko AHAHAH. ",
       // Notice 'photos' is plural here! Put as many as you want in the brackets.
       photos: [
-        "photos/1st_image.jpg", 
-        "photos/1st_image2.jpg", 
-        "photos/1st_image3.jpg"
+        "1st_image.jpg", 
+        "1st_image2.jpg", 
+        "1st_image3.jpg"
       ]
     },
     { 
@@ -299,9 +299,9 @@ const STORY = {
       title: "The day I knew for sure",
       text: "Second date yung kala natin last na yung first nasundan pa HAHAHAHA. ",
       photos: [
-        "photos/2nd_image.jpg", 
-        "photos/2nd_image2.jpg", 
-        "photos/2nd_image3.jpg"
+        "2nd_image.jpg", 
+        "2nd_image2.jpg", 
+        "2nd_image3.jpg"
       ] 
     },
     { 
